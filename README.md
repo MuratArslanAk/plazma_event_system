@@ -39,7 +39,7 @@
 ## Get The plazma_event_system App User Guide
 
 
-### [Link: Get User Guide](https://github.com/MuratArslanAk/plazma_event_system/blob/main/assets/images/USER%20MANUAL%20Plazma%20QR-V1408.pdf)
+### [Link: Get User Guide](https://github.com/MuratArslanAk/plazma_event_system/blob/main/assets/images/USER%20MANUAL%20Plazma%20QR-git.pdf)
 
 ### Logo: 
 <img src="/assets/images/logo.png" alt="Alt text" title="tibbi_terminoloji QR Code" width="300" height="300">
